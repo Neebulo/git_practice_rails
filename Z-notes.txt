@@ -1,1 +1,2 @@
 This will be an insertion.
+This is another insertion to be staged and commit but not merged to master yet
